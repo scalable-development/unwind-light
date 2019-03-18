@@ -4,5 +4,9 @@
   "author": "Rahel Lüthy",
   "editorScheme": "/unwind_light.xml",
   "ui": {
+    "*": {
+      "selectionBackground": "#713a91",
+      "selectionInactiveBackground": "#D0D0D9"
+    }
   }
 }

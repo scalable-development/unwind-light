@@ -1,2 +1,92 @@
 <scheme name="Unwind Light" version="142" parent_scheme="Default">
+    <colors>
+        <option name="CARET_ROW_COLOR" value="fee9ff" />
+    </colors>
+    <attributes>
+        <option name="BAD_CHARACTER">
+            <value>
+                <option name="BACKGROUND" value="6b447a" />
+            </value>
+        </option>
+        <option name="DEFAULT_ATTRIBUTE">
+            <value>
+                <option name="FOREGROUND" value="748fff" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="DEFAULT_CONSTANT">
+            <value>
+                <option name="FOREGROUND" value="6b447a" />
+                <option name="FONT_TYPE" value="3" />
+            </value>
+        </option>
+        <option name="DEFAULT_ENTITY">
+            <value>
+                <option name="FOREGROUND" value="748fff" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="DEFAULT_INSTANCE_FIELD">
+            <value>
+                <option name="FOREGROUND" value="66497a" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="DEFAULT_INVALID_STRING_ESCAPE">
+            <value>
+                <option name="FOREGROUND" value="60b076" />
+                <option name="BACKGROUND" value="9b8e9c" />
+            </value>
+        </option>
+        <option name="DEFAULT_KEYWORD">
+            <value>
+                <option name="FOREGROUND" value="ee74b2" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="DEFAULT_NUMBER">
+            <value>
+                <option name="FOREGROUND" value="748fff" />
+            </value>
+        </option>
+        <option name="DEFAULT_STRING">
+            <value>
+                <option name="FOREGROUND" value="60b076" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="DEFAULT_TAG">
+            <value />
+        </option>
+        <option name="DEFAULT_VALID_STRING_ESCAPE">
+            <value>
+                <option name="FOREGROUND" value="748fff" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="ERRORS_ATTRIBUTES">
+            <value>
+                <option name="EFFECT_COLOR" value="b4475f" />
+                <option name="ERROR_STRIPE_COLOR" value="b4475f" />
+                <option name="EFFECT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="MATCHED_BRACE_ATTRIBUTES">
+            <value>
+                <option name="BACKGROUND" value="9b8e9c" />
+            </value>
+        </option>
+        <option name="TODO_DEFAULT_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="809cbf" />
+                <option name="FONT_TYPE" value="3" />
+                <option name="ERROR_STRIPE_COLOR" value="809cbf" />
+            </value>
+        </option>
+        <option name="WRONG_REFERENCES_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="b4475f" />
+            </value>
+        </option>
+    </attributes>
 </scheme>
