@@ -2,7 +2,7 @@
   "name": "Unwind Light",
   "dark": false,
   "author": "Rahel Lüthy",
-  "editorScheme": "/unwind_light.xml",
+  "editorScheme": "/themes/unwind_light.xml",
   "ui": {
     "*": {
       "selectionBackground": "#713a91",
