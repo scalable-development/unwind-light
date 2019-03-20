@@ -66,8 +66,10 @@
         </option>
         <option name="ERRORS_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="b4475f" />
-                <option name="ERROR_STRIPE_COLOR" value="b4475f" />
+                <option name="FOREGROUND" value="c33258" />
+                <option name="FONT_TYPE" value="1" />
+                <option name="EFFECT_COLOR" value="c33258" />
+                <option name="ERROR_STRIPE_COLOR" value="c33258" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
@@ -85,7 +87,11 @@
         </option>
         <option name="WRONG_REFERENCES_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="b4475f" />
+                <option name="FOREGROUND" value="c33258" />
+                <option name="FONT_TYPE" value="1" />
+                <option name="EFFECT_COLOR" value="c33258" />
+                <option name="ERROR_STRIPE_COLOR" value="c33258" />
+                <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
     </attributes>
